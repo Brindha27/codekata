@@ -1,5 +1,5 @@
-s=eval(input())
-e=eval(input())
-for n in range(s,e+1):
+start=eval(input())
+end=eval(input())
+for n in range(start,end+1):
   if(n%2!=0):
     print(n)
