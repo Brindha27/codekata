@@ -1,0 +1,12 @@
+num=int(input())
+a=num
+b=0
+while(num>0)
+  x=n%10
+  n=n//10
+  y=x**3
+  b=b+y
+if(a==b):
+  print("yes")
+else:
+  print("no")
