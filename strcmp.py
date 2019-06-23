@@ -1,7 +1,7 @@
 aa,bb=input().split()
-x=len(aa)
-y=len(bb)
-if(y>=x):
+z=len(aa)
+w=len(bb)
+if(w>=z):
   print(bb)
 else:
   print(aa)
