@@ -1,0 +1,5 @@
+k=int(input())
+arr=list(map(int,input().split()))
+l=max(arr)
+m=min(arr)
+print(l,m)
